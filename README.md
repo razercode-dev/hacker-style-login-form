@@ -2,4 +2,4 @@
 
 ## Preview
 
-![Preview](assets/img/sc.pnh)
+![Preview](assets/img/sc.png)
